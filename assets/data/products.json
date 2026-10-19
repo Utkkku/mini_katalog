@@ -1,0 +1,66 @@
+[
+  {
+    "id": "1",
+    "name": "Laptop Pro 14",
+    "description": "Günlük iş ve okul için yeterli performans. 16 GB RAM, SSD disk.",
+    "category": "Bilgisayar",
+    "price": 24999.0,
+    "imageAsset": "assets/images/laptop.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Akıllı Telefon X",
+    "description": "128 GB depolama, iyi kameralar. Gün boyu dayanan batarya.",
+    "category": "Telefon",
+    "price": 18999.0,
+    "imageAsset": "assets/images/phone.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Kablosuz Kulaklık",
+    "description": "Gürültü engelleme özellikli, rahat kullanım.",
+    "category": "Aksesuar",
+    "price": 2499.0,
+    "imageAsset": "assets/images/kulaklik.jpg"
+  },
+  {
+    "id": "4",
+    "name": "Akıllı Saat",
+    "description": "Adım, nabız ve bildirim takibi. Su geçirmez.",
+    "category": "Aksesuar",
+    "price": 4599.0,
+    "imageAsset": "assets/images/saat.jpg"
+  },
+  {
+    "id": "5",
+    "name": "Mekanik Klavye",
+    "description": "RGB aydınlatmalı, oyun ve yazım için uygun.",
+    "category": "Aksesuar",
+    "price": 1899.0,
+    "imageAsset": "assets/images/klavye.jpg"
+  },
+  {
+    "id": "6",
+    "name": "Kablosuz Mouse",
+    "description": "Ergonomik tasarım, uzun pil ömrü.",
+    "category": "Aksesuar",
+    "price": 699.0,
+    "imageAsset": "assets/images/mouse.jpg"
+  },
+  {
+    "id": "7",
+    "name": "27 inç Monitör",
+    "description": "Full HD IPS panel, ince çerçeve.",
+    "category": "Bilgisayar",
+    "price": 5999.0,
+    "imageAsset": "assets/images/monitor.jpg"
+  },
+  {
+    "id": "8",
+    "name": "Notebook Çantası",
+    "description": "15.6 inç laptop sığar. Su tutmayan kumaş.",
+    "category": "Çanta",
+    "price": 899.0,
+    "imageAsset": "assets/images/canta.jpg"
+  }
+]
